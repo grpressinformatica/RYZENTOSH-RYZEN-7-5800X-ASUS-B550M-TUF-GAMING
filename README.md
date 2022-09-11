@@ -6,3 +6,4 @@ WI-FI: WIFI 6 AX200</P>
 GPU: AMD Radeon RX 570 8 GB</P>
 SMBIOS: iMacPro1,1</P>
 OPENCORE: 0.8.4</P>
+macOS Monterey 12.5.1
